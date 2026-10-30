@@ -1,10 +1,10 @@
-### Assalomu alaykum, GitHub'ga xush kelibsiz! 👋
+### Assalomu alaykum, GitHub'ga xush kelibsiz!
 
 Men **Sardorbek Muminov**, Axborot texnologiyalari yo'nalishida tahsil olayotgan dasturchiman va kelajakdagi muammolarni texnologiya hamda sun'iy intellekt orqali hal qilishga qiziqaman.
 
 ---
 
-### 🛠 Texnologiyalar va Ko'nikmalar (Tech Stack)
+### Texnologiyalar va Ko'nikmalar (Tech Stack)
 
 * **Dasturlash tillari:** Python, C++, C
 * **Ma'lumotlar va Machine Learning:** Pandas, NumPy, Scikit-Learn, PyTorch
