@@ -1,26 +1,40 @@
-### Assalomu alaykum, GitHub'ga xush kelibsiz!
+# Hi, I'm Sardorbek Muminov 👋
 
-Men **Sardorbek Muminov**, Axborot texnologiyalari yo'nalishida tahsil olayotgan dasturchiman va kelajakdagi muammolarni texnologiya hamda sun'iy intellekt orqali hal qilishga qiziqaman.
+### Aspiring Machine Learning Engineer | Mobile Systems Student
 
----
+I'm a Mobile Systems student at Tashkent University of Information Technologies, interested in Machine Learning, Artificial Intelligence, and data-driven technologies.
 
-### Texnologiyalar va Ko'nikmalar (Tech Stack)
+Currently, I'm developing my skills in Python, Machine Learning, and data analysis, while exploring Deep Learning and AI-based applications.
 
-* **Dasturlash tillari:** Python, C++, C
-* **Ma'lumotlar va Machine Learning:** Pandas, NumPy, Scikit-Learn, PyTorch
-* **Asboblar va muhit:** Linux (Ubuntu), Git, GitHub, VS Code, PyCharm
-* **Boshqa yo'nalishlar:** Kompyuter tarmoqlari, Kiberxavfsizlik asoslari
+### 🛠️ Technical Skills
 
----
+* **Programming:** Python, C, C++
+* **Data Science:** NumPy, Pandas, Matplotlib
+* **Machine Learning:** Scikit-learn
+* **Tools:** Git, GitHub, VS Code
 
-### 📊 GitHub Statistika
+### 🎯 Current Learning Goals
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sardorbekmuminov&show_icons=true&theme=tokyonight" alt="Sardorbek's GitHub stats" />
-</p>
+* Deep Learning and Neural Networks
+* Natural Language Processing (NLP)
+* Computer Vision
+* Speech Recognition (STT)
+* Text-to-Speech (TTS)
+* Optical Character Recognition (OCR)
 
----
+### 🎓 Education
 
-### 📫 Bog'lanish uchun:
-* 📧 Email: sardorbekmuminov2005@gmail.com
-* 📱 Telegram: [@muminov_sardorbek](https://t.me/muminov_sardorbek)
+Tashkent University of Information Technologies
+Major: Mobile Systems
+
+### 🌍 Languages
+
+* Uzbek — Native
+* English — IELTS 7.0
+* Russian — [Your level]
+
+### 📫 Contact
+
+* Email: [sardorbekmuminov2005@gmail.com](mailto:sardorbekmuminov2005@gmail.com)
+* Telegram: @muminov_sardorbek
+* GitHub: github.com/sardorbekmuminov
